@@ -11129,3 +11129,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jan2025 17:07:14.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
 [12Jan2025 17:07:32.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of kevin123j2) moved wrongly! 0.5875314818589531
 [12Jan2025 17:07:49.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of kevin123j2) moved wrongly! 0.740563846041753
+[12Jan2025 17:09:34.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[12Jan2025 17:09:34.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[12Jan2025 17:09:45.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:33897] logged in with entity id 16270 at (-478.39777035156226, 63.0, -539.3115927104387)
+[12Jan2025 17:09:46.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[12Jan2025 17:09:46.076] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[12Jan2025 17:11:57.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of kevin123j2) moved wrongly! 0.3954415883063986
+[12Jan2025 17:12:29.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of kevin123j2) moved wrongly! 0.7948592336985347
+[12Jan2025 17:12:29.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of kevin123j2) moved wrongly! 0.7948592336985347
+[12Jan2025 17:14:52.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.25672368664424994
