@@ -896,15 +896,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-01-12 15:44:48 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
       "tame_rat": "2025-01-12 15:43:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-12 15:44:48 +0000"
     },
     "done": true
   },
