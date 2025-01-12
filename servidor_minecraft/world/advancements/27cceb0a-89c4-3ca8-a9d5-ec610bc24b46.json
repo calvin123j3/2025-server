@@ -283,6 +283,7 @@
       "minecraft:river": "2025-01-08 15:20:35 +0000",
       "minecraft:lukewarm_ocean": "2025-01-12 17:37:45 +0000",
       "minecraft:stony_shore": "2025-01-10 02:10:00 +0000",
+      "minecraft:swamp": "2025-01-12 17:49:56 +0000",
       "minecraft:cold_ocean": "2025-01-12 02:08:03 +0000",
       "minecraft:forest": "2025-01-08 14:47:49 +0000",
       "autumnity:autumnity:maple_forest": "2025-01-10 02:05:34 +0000",
@@ -290,6 +291,8 @@
       "minecraft:windswept_savanna": "2025-01-09 17:52:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-12 17:39:31 +0000",
       "minecraft:flower_forest": "2025-01-08 17:51:30 +0000",
+      "environmental:environmental:marsh": "2025-01-12 17:50:37 +0000",
+      "minecraft:savanna": "2025-01-12 18:05:52 +0000",
       "minecraft:plains": "2025-01-08 14:42:31 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-01-08 14:48:11 +0000"
     },
@@ -747,6 +750,30 @@
   "born_in_chaos_v1:shell_warrior": {
     "criteria": {
       "shell_warrior_0": "2025-01-12 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-12 17:53:54 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-12 17:53:54 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-01-12 18:03:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-12 17:53:54 +0000"
     },
     "done": true
   },

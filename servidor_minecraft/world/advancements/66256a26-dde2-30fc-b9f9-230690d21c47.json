@@ -643,6 +643,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-09 18:15:30 +0000",
       "entered_stables": "2025-01-08 19:07:22 +0000",
+      "entered_pirate_ship": "2025-01-12 17:53:44 +0000",
       "entered_sunken_shrine": "2025-01-08 21:10:55 +0000",
       "entered_ruined_building": "2025-01-10 02:20:38 +0000"
     },
@@ -911,6 +912,18 @@
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-01-12 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-01-12 17:50:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-12 17:53:44 +0000"
     },
     "done": true
   },
