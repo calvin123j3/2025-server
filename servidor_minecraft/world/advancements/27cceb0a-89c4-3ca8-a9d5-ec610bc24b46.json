@@ -765,15 +765,27 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-12 17:53:54 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_torch": {
     "criteria": {
       "has_bamboo": "2025-01-12 18:03:22 +0000"
     },
     "done": true
   },
-  "dungeons_enhanced:ahoy": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "entered_pirate_ship": "2025-01-12 17:53:54 +0000"
+      "fighting_nightmares_0": "2025-01-12 18:25:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-12 18:33:07 +0000"
     },
     "done": true
   },
