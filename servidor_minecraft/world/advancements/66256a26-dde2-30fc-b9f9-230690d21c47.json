@@ -908,5 +908,11 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-01-12 17:44:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
