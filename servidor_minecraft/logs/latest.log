@@ -10489,3 +10489,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jan2025 23:00:16.309] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [12Jan2025 23:04:45.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
 [12Jan2025 23:04:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[12Jan2025 23:06:14.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:47137] logged in with entity id 1324 at (-292.2998447639535, 63.0, -11.730122878620666)
+[12Jan2025 23:06:14.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[12Jan2025 23:06:14.743] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[12Jan2025 23:08:12.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Double Trouble]
+[12Jan2025 23:09:15.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[12Jan2025 23:09:15.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[12Jan2025 23:11:48.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:51769] logged in with entity id 2227 at (-261.9137630410095, 60.0, -8.442608201716025)
+[12Jan2025 23:11:48.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[12Jan2025 23:11:48.578] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
