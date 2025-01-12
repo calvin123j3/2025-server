@@ -312,7 +312,8 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "sandy_dirt": "2025-01-08 22:20:27 +0000",
-      "dirt": "2025-01-08 14:53:57 +0000"
+      "dirt": "2025-01-08 14:53:57 +0000",
+      "silt": "2025-01-12 15:45:00 +0000"
     },
     "done": false
   },
@@ -892,6 +893,18 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-01-12 01:55:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-12 15:44:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-12 15:43:57 +0000"
     },
     "done": true
   },
