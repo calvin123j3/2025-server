@@ -382,6 +382,7 @@
       "rabbit_stew": "2025-01-08 21:04:58 +0000",
       "abnormals_delight:tomato": "2025-01-10 00:25:46 +0000",
       "melon_slice": "2025-01-11 22:19:13 +0000",
+      "cooked_rabbit": "2025-01-12 18:50:37 +0000",
       "neapolitan:strawberries": "2025-01-08 16:55:15 +0000",
       "cooked_porkchop": "2025-01-12 18:22:58 +0000",
       "cooked_beef": "2025-01-08 17:12:44 +0000",
@@ -933,6 +934,24 @@
   "beachparty:palm_torch": {
     "criteria": {
       "has_bamboo": "2025-01-12 18:15:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-12 19:01:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-12 19:05:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-12 19:25:14 +0000"
     },
     "done": true
   },
