@@ -380,11 +380,13 @@
       "autumnity:cooked_turkey_piece": "2025-01-08 18:38:21 +0000",
       "autumnity:pumpkin_bread": "2025-01-09 19:40:26 +0000",
       "neapolitan:banana": "2025-01-12 19:04:52 +0000",
+      "abnormals_delight:bacon_and_eggs": "2025-01-13 02:14:33 +0000",
       "bread": "2025-01-09 23:53:47 +0000",
       "golden_apple": "2025-01-13 00:05:27 +0000",
       "cooked_salmon": "2025-01-08 15:21:27 +0000",
       "abnormals_delight:pumpkin_slice": "2025-01-08 16:15:15 +0000",
       "abnormals_delight:cooked_mutton_chops": "2025-01-09 17:28:57 +0000",
+      "cooked_cod": "2025-01-13 02:13:54 +0000",
       "carrot": "2025-01-08 14:56:10 +0000"
     },
     "done": false
@@ -804,6 +806,30 @@
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-01-12 23:46:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-01-13 02:14:33 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-13 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-13 02:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-13 02:14:20 +0000"
     },
     "done": true
   },

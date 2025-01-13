@@ -395,6 +395,7 @@
       "honey_bottle": "2025-01-08 21:28:59 +0000",
       "cookie": "2025-01-11 01:46:33 +0000",
       "potato": "2025-01-08 15:06:33 +0000",
+      "abnormals_delight:bacon_and_eggs": "2025-01-13 02:13:59 +0000",
       "bread": "2025-01-08 15:03:03 +0000",
       "golden_apple": "2025-01-08 18:41:11 +0000",
       "rotten_flesh": "2025-01-11 01:41:12 +0000",
@@ -967,6 +968,24 @@
       "charm_collector_0": "2025-01-12 23:25:18 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-01-13 02:13:59 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-13 02:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-13 02:13:49 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

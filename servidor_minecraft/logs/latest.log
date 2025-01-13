@@ -10517,3 +10517,100 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [13Jan2025 01:30:14.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
 [13Jan2025 01:31:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
 [13Jan2025 01:33:58.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Who You Gonna Call?]
+[13Jan2025 01:38:58.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[13Jan2025 01:38:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[13Jan2025 01:39:25.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:44485] logged in with entity id 3677 at (-267.69999998807907, 58.0, -0.30000001192092896)
+[13Jan2025 01:39:25.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[13Jan2025 01:39:25.646] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[13Jan2025 01:40:01.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[13Jan2025 01:40:23.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:41:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[13Jan2025 01:41:55.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Moonflower
+[13Jan2025 01:42:00.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[13Jan2025 01:42:14.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 withered away whilst fighting Nightmare Stalker
+[13Jan2025 01:42:30.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq withered away whilst fighting Nightmare Stalker
+[13Jan2025 01:42:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ghost
+[13Jan2025 01:43:15.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by The Moonflower
+[13Jan2025 01:43:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[13Jan2025 01:43:57.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[13Jan2025 01:44:08.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 withered away whilst fighting Nightmare Stalker
+[13Jan2025 01:44:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:44:22.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[13Jan2025 01:44:25.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Nightmare Stalker
+[13Jan2025 01:44:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[13Jan2025 01:44:35.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[13Jan2025 01:44:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Skeleton
+[13Jan2025 01:45:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[13Jan2025 01:46:00.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Skeleton
+[13Jan2025 01:46:54.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ghost
+[13Jan2025 01:48:14.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 fell from a high place
+[13Jan2025 01:49:13.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:49:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ghost
+[13Jan2025 01:49:25.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:49:42.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:51:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ghost
+[13Jan2025 01:52:02.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.5237623457485118
+[13Jan2025 01:52:18.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.5873905465233484
+[13Jan2025 01:52:18.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 1.2785577788730045
+[13Jan2025 01:52:18.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 1.9807045800223229
+[13Jan2025 01:52:18.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 2.6943776110249686
+[13Jan2025 01:52:18.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 3.4196869564857835
+[13Jan2025 01:52:18.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.6422844429500358
+[13Jan2025 01:52:18.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.6526817207628106
+[13Jan2025 01:52:18.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.6621976475736879
+[13Jan2025 01:52:18.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 1.4270513390930368
+[13Jan2025 01:52:18.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.6784837605237612
+[13Jan2025 01:52:18.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.685317847015039
+[13Jan2025 01:52:18.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.6913502368759552
+[13Jan2025 01:52:18.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 1.4820801958184084
+[13Jan2025 01:52:18.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.7013635455834439
+[13Jan2025 01:52:18.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 1.5009261306767208
+[13Jan2025 01:52:18.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.7090188369763553
+[13Jan2025 01:52:18.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.7102629106320322
+[13Jan2025 01:52:18.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 1.5115145419239653
+[13Jan2025 01:52:19.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.6126447845903158
+[13Jan2025 01:52:19.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.529253719811976
+[13Jan2025 01:52:19.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.45570280067748214
+[13Jan2025 01:52:19.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.39083089000085636
+[13Jan2025 01:52:19.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.3336138647840734
+[13Jan2025 01:52:19.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.283148448542871
+[13Jan2025 01:52:31.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.29364276745602
+[13Jan2025 01:52:37.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:53:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:53:15.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:53:27.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:53:42.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:54:34.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [Night Night]
+[13Jan2025 01:54:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Somnolence
+[13Jan2025 01:56:54.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 hit the ground too hard whilst trying to escape Nightmare Stalker
+[13Jan2025 01:57:16.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-309, y=69, z=95} BlockPos{x=-309, y=69, z=96}
+[13Jan2025 01:57:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Ghost
+[13Jan2025 01:57:33.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[13Jan2025 01:57:50.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
+[13Jan2025 01:57:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[13Jan2025 01:58:39.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.18.60.42:39323] logged in with entity id 11001 at (6.724398940905917, 66.0, -10.807351724094461)
+[13Jan2025 01:58:39.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[13Jan2025 01:58:39.234] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[13Jan2025 02:00:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Ghost
+[13Jan2025 02:01:24.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Ghost
+[13Jan2025 02:01:54.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Who You Gonna Call?]
+[13Jan2025 02:03:32.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
+[13Jan2025 02:03:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[13Jan2025 02:05:52.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.18.60.42:54101] logged in with entity id 13553 at (-267.69999998807907, 61.0, 1.4679678602367994)
+[13Jan2025 02:05:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[13Jan2025 02:05:52.443] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[13Jan2025 02:09:38.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Andria'/4091, l='ServerLevel[world]', x=-330.30, y=67.00, z=63.30] died, message: 'Andria was slain by Ghost'
+[13Jan2025 02:09:38.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Andria'/4091, l='ServerLevel[world]', x=-330.30, y=67.00, z=63.30] died: Andria was slain by Ghost
+[13Jan2025 02:09:42.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Daryl'/4093, l='ServerLevel[world]', x=-327.30, y=68.00, z=54.36] died, message: 'Daryl was slain by Ghost'
+[13Jan2025 02:09:42.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Daryl'/4093, l='ServerLevel[world]', x=-327.30, y=68.00, z=54.36] died: Daryl was slain by Ghost
+[13Jan2025 02:13:49.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [What a Deal!]
+[13Jan2025 02:14:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [What a Deal!]
+[13Jan2025 02:20:22.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Corpse Fly
+[13Jan2025 02:23:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[13Jan2025 02:25:03.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[13Jan2025 02:25:03.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[13Jan2025 02:26:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Wheezer
+[13Jan2025 02:27:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Wheezer
+[13Jan2025 02:33:50.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=65, z=108} BlockPos{x=-320, y=64, z=108}
+[13Jan2025 02:33:50.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=65, z=108} BlockPos{x=-320, y=64, z=108}
+[13Jan2025 02:33:50.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=65, z=108} BlockPos{x=-320, y=64, z=108}
