@@ -740,15 +740,21 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-01-14 00:07:03 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow_0": "2025-01-14 00:23:08 +0000"
     },
     "done": true
   },
-  "immersive_weathering:immersive_weathering/weeds": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "wheat": "2025-01-14 00:07:03 +0000"
+      "traded": "2025-01-14 01:59:25 +0000"
     },
     "done": true
   },
@@ -761,12 +767,6 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-01-14 01:59:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-14 01:59:25 +0000"
     },
     "done": true
   },

@@ -809,18 +809,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "bacon_and_eggs": "2025-01-13 02:14:33 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-01-13 02:14:33 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-01-13 02:01:54 +0000"
@@ -830,6 +818,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-13 02:14:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-01-13 02:14:33 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-13 02:14:33 +0000"
     },
     "done": true
   },
