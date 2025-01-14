@@ -739,5 +739,11 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-01-14 00:07:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
