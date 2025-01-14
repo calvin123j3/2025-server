@@ -38,3 +38,9 @@
 [14Jan2025 01:49:08.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:41689] logged in with entity id 26202 at (-260.0856760627438, 60.5625, -3.9882804285053366)
 [14Jan2025 01:49:08.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [14Jan2025 01:49:08.284] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[14Jan2025 01:51:23.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[14Jan2025 01:51:23.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[14Jan2025 01:53:47.689] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:39233] logged in with entity id 26986 at (-261.0819476057958, 60.0, -8.134760814961888)
+[14Jan2025 01:53:47.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[14Jan2025 01:53:47.765] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[14Jan2025 01:59:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [What a Deal!]
