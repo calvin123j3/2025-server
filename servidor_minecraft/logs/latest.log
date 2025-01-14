@@ -44,3 +44,20 @@
 [14Jan2025 01:53:47.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [14Jan2025 01:53:47.765] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [14Jan2025 01:59:25.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [What a Deal!]
+[14Jan2025 02:06:28.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Lifestealer
+[14Jan2025 02:06:28.364] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[14Jan2025 02:06:28.364] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[14Jan2025 02:06:28.365] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[14Jan2025 02:06:28.365] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[14Jan2025 02:06:28.365] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[14Jan2025 02:07:19.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 withered away
+[14Jan2025 02:07:21.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cara'/19565, l='ServerLevel[world]', x=-259.64, y=60.56, z=-4.81] died, message: 'Cara withered away'
+[14Jan2025 02:07:21.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cara'/19565, l='ServerLevel[world]', x=-259.64, y=60.56, z=-4.81] died: Cara withered away
+[14Jan2025 02:07:56.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away
+[14Jan2025 02:09:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Lifestealer
+[14Jan2025 02:09:33.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-258, y=63, z=-10}
+[14Jan2025 02:09:42.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Lifestealer
+[14Jan2025 02:09:59.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Lifestealer
+[14Jan2025 02:10:03.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Lifestealer
+[14Jan2025 02:10:05.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Lifestealer
+[14Jan2025 02:10:55.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Lifestealer
