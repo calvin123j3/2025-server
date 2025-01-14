@@ -969,6 +969,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-13 02:13:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "bacon_and_eggs": "2025-01-13 02:13:59 +0000"
@@ -978,12 +984,6 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-01-13 02:13:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-13 02:13:49 +0000"
     },
     "done": true
   },
