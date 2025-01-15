@@ -56,3 +56,18 @@
 [15Jan2025 00:28:47.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:56131] logged in with entity id 22743 at (-302.64232783036795, 70.0, 104.31994579173345)
 [15Jan2025 00:28:47.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [15Jan2025 00:28:47.326] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[15Jan2025 00:29:17.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Timed out
+[15Jan2025 00:29:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[15Jan2025 00:32:38.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:46041] logged in with entity id 23874 at (-302.64232783036795, 70.0, 104.31994579173345)
+[15Jan2025 00:32:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[15Jan2025 00:32:39.044] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[15Jan2025 00:33:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> a mimir
+[15Jan2025 00:33:41.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[15Jan2025 00:33:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[15Jan2025 00:33:47.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Timed out
+[15Jan2025 00:33:47.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[15Jan2025 00:34:58.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:59147] logged in with entity id 24419 at (-316.09154826589344, 64.0, 109.422849042391)
+[15Jan2025 00:34:58.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[15Jan2025 00:34:58.895] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[15Jan2025 00:35:33.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> jose entra al a llamda dice gustavo que encontro ancient xd
+[15Jan2025 00:39:14.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 has made the advancement [The Wind Darkening]
