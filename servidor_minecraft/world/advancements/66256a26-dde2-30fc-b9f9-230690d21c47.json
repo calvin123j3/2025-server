@@ -1012,5 +1012,17 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-01-15 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2025-01-15 23:36:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
