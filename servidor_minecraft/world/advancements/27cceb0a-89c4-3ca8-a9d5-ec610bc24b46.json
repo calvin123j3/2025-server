@@ -837,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-15 02:08:48 +0000"
+    },
+    "done": true
+  },
   "yungscavebiomes:frosted_caves": {
     "criteria": {
       "frosted_caves": "2025-01-15 02:05:10 +0000"

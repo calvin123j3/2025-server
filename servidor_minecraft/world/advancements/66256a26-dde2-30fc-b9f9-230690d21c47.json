@@ -363,6 +363,7 @@
       "minecraft:spider": "2025-01-08 18:08:52 +0000",
       "minecraft:creeper": "2025-01-08 20:25:38 +0000",
       "minecraft:witch": "2025-01-11 00:05:18 +0000",
+      "minecraft:stray": "2025-01-15 02:19:56 +0000",
       "minecraft:zombie": "2025-01-08 16:23:49 +0000",
       "minecraft:drowned": "2025-01-08 15:27:13 +0000",
       "minecraft:zombie_villager": "2025-01-08 16:46:41 +0000"
@@ -996,6 +997,18 @@
   "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
     "criteria": {
       "requirement": "2025-01-15 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-01-15 23:02:14 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-01-15 23:02:32 +0000"
     },
     "done": true
   },
