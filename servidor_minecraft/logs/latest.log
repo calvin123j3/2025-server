@@ -10541,3 +10541,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [15Jan2025 23:25:29.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:60493] logged in with entity id 10671 at (-297.30000001192093, 63.81168707874468, 108.70361200867139)
 [15Jan2025 23:25:29.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
 [15Jan2025 23:25:29.211] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[15Jan2025 23:28:44.490] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[15Jan2025 23:28:44.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[15Jan2025 23:29:28.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:36327] logged in with entity id 11511 at (-286.22279788441057, -54.0, 166.55130554574183)
+[15Jan2025 23:29:28.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[15Jan2025 23:29:28.691] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[15Jan2025 23:29:58.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[15Jan2025 23:29:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[15Jan2025 23:30:43.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:42235] logged in with entity id 11739 at (-286.22279788441057, -54.0, 166.55130554574183)
+[15Jan2025 23:30:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[15Jan2025 23:30:43.194] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[15Jan2025 23:31:13.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[15Jan2025 23:31:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[15Jan2025 23:32:39.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:35251] logged in with entity id 12104 at (-286.22279788441057, -54.0, 166.55130554574183)
+[15Jan2025 23:32:39.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[15Jan2025 23:32:39.071] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[15Jan2025 23:33:09.090] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[15Jan2025 23:33:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[15Jan2025 23:34:32.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:51787] logged in with entity id 12602 at (-286.22279788441057, -54.0, 166.55130554574183)
+[15Jan2025 23:34:32.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[15Jan2025 23:34:32.691] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[15Jan2025 23:34:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Moonflower
+[15Jan2025 23:35:02.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[15Jan2025 23:35:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[15Jan2025 23:36:01.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Vampire Slayer]
+[15Jan2025 23:36:02.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:46731] logged in with entity id 13163 at (-286.22279788441057, -54.0, 166.55130554574183)
+[15Jan2025 23:36:02.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[15Jan2025 23:36:02.836] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[15Jan2025 23:36:56.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[15Jan2025 23:36:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[15Jan2025 23:37:19.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was blown up by Faller
+[15Jan2025 23:37:34.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[15Jan2025 23:37:39.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:34811] logged in with entity id 13719 at (-286.22279788441057, -54.0, 166.55130554574183)
+[15Jan2025 23:37:39.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[15Jan2025 23:37:39.483] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
