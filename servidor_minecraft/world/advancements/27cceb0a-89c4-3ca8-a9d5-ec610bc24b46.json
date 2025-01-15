@@ -837,5 +837,11 @@
     },
     "done": true
   },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-01-15 02:05:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

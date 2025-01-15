@@ -993,5 +993,11 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-01-15 02:00:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
