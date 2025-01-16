@@ -3,3 +3,22 @@
 [16Jan2025 00:00:16.073] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
 [16Jan2025 00:01:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Skeleton
 [16Jan2025 00:07:29.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was squished too much
+[16Jan2025 00:08:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Vampire
+[16Jan2025 00:08:36.933] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Jan2025 00:08:36.934] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[16Jan2025 00:08:36.935] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Jan2025 00:08:36.936] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Jan2025 00:08:36.936] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Jan2025 00:09:06.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> mi pico
+[16Jan2025 00:09:08.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> lo tienes
+[16Jan2025 00:09:51.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16Jan2025 00:10:08.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[16Jan2025 00:10:26.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2995ms or 59 ticks behind
+[16Jan2025 00:10:43.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[16Jan2025 00:11:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Skeleton
+[16Jan2025 00:11:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 withered away whilst fighting Silverqueen
+[16Jan2025 00:13:55.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 fell from a high place
+[16Jan2025 00:15:18.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Night Night]
+[16Jan2025 00:15:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was doomed to fall by The Somnolence
+[16Jan2025 00:16:34.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 fell from a high place
+[16Jan2025 00:17:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was doomed to fall by Skeleton
