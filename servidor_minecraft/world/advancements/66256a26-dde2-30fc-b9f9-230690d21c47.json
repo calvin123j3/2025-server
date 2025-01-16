@@ -394,6 +394,7 @@
       "cooked_mutton": "2025-01-08 15:14:17 +0000",
       "pumpkin_pie": "2025-01-08 21:20:30 +0000",
       "golden_carrot": "2025-01-08 20:40:00 +0000",
+      "enchanted_golden_apple": "2025-01-16 00:18:32 +0000",
       "honey_bottle": "2025-01-08 21:28:59 +0000",
       "cookie": "2025-01-11 01:46:33 +0000",
       "potato": "2025-01-08 15:06:33 +0000",
@@ -1016,6 +1017,12 @@
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2025-01-15 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-01-16 00:15:18 +0000"
     },
     "done": true
   },
