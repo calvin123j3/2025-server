@@ -160,3 +160,19 @@
 [16Jan2025 01:21:29.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:36049] logged in with entity id 46824 at (-375.2437884767202, -20.0, -173.18591772911358)
 [16Jan2025 01:21:29.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [16Jan2025 01:21:29.385] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[16Jan2025 01:31:42.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Jan2025 01:31:42.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pñ<--[HERE]
+[16Jan2025 01:33:18.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was killed by Necromancer's magic missile
+[16Jan2025 01:33:27.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was caught by Necromancer's fangs
+[16Jan2025 01:43:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Horrors
+[16Jan2025 01:44:09.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by The Horrors
+[16Jan2025 01:44:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was blown up by Crawler
+[16Jan2025 01:45:12.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! -6.492110466791928,1.044812420399026,-7.818881584725332
+[16Jan2025 01:45:16.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Timed out
+[16Jan2025 01:45:16.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[16Jan2025 01:45:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was shot by Skeleton
+[16Jan2025 01:45:26.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:32965] logged in with entity id 54558 at (-386.43578763161906, -18.99866402088785, -128.47680993428764)
+[16Jan2025 01:45:26.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[16Jan2025 01:45:26.430] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[16Jan2025 01:46:07.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[16Jan2025 01:46:07.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 moved too quickly! -1.33889149747057,-0.7539862017387691,-9.937512498915723
