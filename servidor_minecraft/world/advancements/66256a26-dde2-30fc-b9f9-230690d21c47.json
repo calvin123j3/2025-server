@@ -362,6 +362,7 @@
       "minecraft:vindicator": "2025-01-12 01:03:54 +0000",
       "minecraft:spider": "2025-01-08 18:08:52 +0000",
       "minecraft:creeper": "2025-01-08 20:25:38 +0000",
+      "quark:forgotten": "2025-01-16 00:45:12 +0000",
       "minecraft:witch": "2025-01-11 00:05:18 +0000",
       "minecraft:stray": "2025-01-15 02:19:56 +0000",
       "minecraft:silverfish": "2025-01-16 00:13:23 +0000",
@@ -1017,6 +1018,12 @@
   "enemyexpansion:troll_hunter": {
     "criteria": {
       "troll_hunter_0": "2025-01-15 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-01-16 00:45:16 +0000"
     },
     "done": true
   },

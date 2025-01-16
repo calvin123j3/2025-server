@@ -81,3 +81,32 @@
 [16Jan2025 00:45:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has reached the goal [This Belongs in a Museum]
 [16Jan2025 00:45:17.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
 [16Jan2025 00:45:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[16Jan2025 00:49:04.753] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:38643] logged in with entity id 33814 at (-408.97343467398514, 6.5625, 150.37731545004178)
+[16Jan2025 00:49:04.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[16Jan2025 00:49:04.832] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[16Jan2025 00:49:34.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[16Jan2025 00:49:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[16Jan2025 00:50:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Glitter
+[16Jan2025 00:50:27.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:54159] logged in with entity id 34729 at (-408.97343467398514, 6.5625, 150.37731545004178)
+[16Jan2025 00:50:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[16Jan2025 00:50:28.023] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[16Jan2025 00:51:18.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was blown up by Crawler
+[16Jan2025 00:52:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Vampire
+[16Jan2025 00:53:07.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was blown up by Crawler
+[16Jan2025 00:53:43.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[16Jan2025 00:53:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[16Jan2025 00:54:35.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:40493] logged in with entity id 36214 at (-408.4038332576674, -2.0, 118.50539783145004)
+[16Jan2025 00:54:35.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[16Jan2025 00:54:35.123] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[16Jan2025 00:55:05.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[16Jan2025 00:55:05.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[16Jan2025 00:56:27.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:46321] logged in with entity id 37132 at (-408.4038332576674, -2.0, 118.50539783145004)
+[16Jan2025 00:56:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[16Jan2025 00:56:28.047] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[16Jan2025 00:56:58.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[16Jan2025 00:56:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[16Jan2025 00:58:02.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:49057] logged in with entity id 37786 at (-408.4038332576674, -2.0, 118.50539783145004)
+[16Jan2025 00:58:02.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[16Jan2025 00:58:02.525] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[16Jan2025 00:58:32.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Timed out
+[16Jan2025 00:58:32.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
